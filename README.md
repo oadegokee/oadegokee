@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Olaoluwa Adegoke
 ========================================================================================================================================
 
-Software Engineering Student
+Software Engineering Graduate
 ----------------------------
 
-I am a student at the University of Wisconsin, Eau Claire with a Major in Software Engineering and a minor in Information Systems. My GitHub repository showcases my progress and projects. I am always eager to learn, collaborate, and contribute on any project.
+I am a recent software engineering graduate with a strong foundation in web and software development. My GitHub repository showcases my progress and projects. I am always eager to learn, collaborate, and contribute on any project.
 
-* 🌍  I'm based in Wisconsin, United States
+* 🌍  I'm based in Minneapolis, United States
 * 🖥️  See my portfolio at [MyPortfolio](http://oadegokee.github.io/PersonalPortfolio/)
 * ✉️  You can contact me at [laoluadegoke@icloud.com](mailto:laoluadegoke@icloud.com)
 * 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Any Unique/Interesting project related to my skills
+* 🤝  I'm open to collaborating on any unique/interesting project.
 
 ### Skills
 
