@@ -9,7 +9,6 @@ I am a recent software engineering graduate with a strong foundation in web and 
 * 🌍  I'm based in Minneapolis, United States
 * 🖥️  See my portfolio at [MyPortfolio](http://oadegokee.github.io/PersonalPortfolio/)
 * ✉️  You can contact me at [laoluadegoke@icloud.com](mailto:laoluadegoke@icloud.com)
-* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on any unique/interesting project.
 
 ### Skills
